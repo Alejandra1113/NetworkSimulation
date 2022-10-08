@@ -1,0 +1,11 @@
+Path modificable:
+        Se añadiò una opcion en config.txt para pone el path donde se quiere el output, està configurado por default en el directorio output.
+
+Parseo por prioridad:
+        Las instrucciònes que corresponden a la misma instancia de tiempo, son ejecutadas segùn una prioridad definida (crear,conectar,enviar,desconectar); para dar una respuesta lògica en casos como desconectar y enviar en la misma instancia de tiempo.
+
+Tiempo
+        El tiempo se simulò de manera iterativa, llevando el tiempo en una variable, y por cada incremento se actualizan los objetos que representan a las Pc, los Hub y los Cables; uno de estos objetos tiene un comportamiento definido que depende de lo que reciben por sus puertos.
+
+Checkeo de ciclos
+        Cada vez que se conecta un par de dispositivos se checkea si se construyò un ciclo, en ese caso darà error.

@@ -1,0 +1,416 @@
+0 pc2 Send 1 Ok
+10 pc2 Send 0 Ok
+20 pc2 Send 1 Ok
+30 pc2 Send 0 Ok
+40 pc2 Send 1 Ok
+50 pc2 Send 0 Ok
+60 pc2 Send 1 Ok
+70 pc2 Send 0 Ok
+80 pc2 Send 1 Ok
+90 pc2 Send 0 Ok
+100 pc2 Send 1 Ok
+110 pc2 Send 0 Ok
+120 pc2 Send 0 Ok
+130 pc2 Send 0 Ok
+140 pc2 Send 1 Ok
+150 pc2 Send 0 Ok
+160 pc2 Send 1 Ok
+170 pc2 Send 1 Ok
+180 pc2 Send 1 Ok
+190 pc2 Send 1 Ok
+200 pc2 Send 1 Ok
+210 pc2 Send 1 Ok
+220 pc2 Send 1 Ok
+230 pc2 Send 1 Ok
+240 pc2 Send 1 Ok
+250 pc2 Send 1 Ok
+260 pc2 Send 1 Ok
+270 pc2 Send 1 Ok
+280 pc2 Send 1 Ok
+290 pc2 Send 1 Ok
+300 pc2 Send 1 Ok
+310 pc2 Send 1 Ok
+320 pc2 Send 0 Ok
+330 pc2 Send 1 Ok
+340 pc2 Send 0 Ok
+350 pc2 Send 0 Ok
+360 pc2 Send 0 Ok
+370 pc2 Send 0 Ok
+380 pc2 Send 0 Ok
+390 pc2 Send 0 Ok
+400 pc2 Send 0 Ok
+410 pc2 Send 0 Ok
+420 pc2 Send 0 Ok
+430 pc2 Send 1 Ok
+440 pc2 Send 0 Ok
+450 pc2 Send 0 Ok
+460 pc2 Send 0 Ok
+470 pc2 Send 0 Ok
+480 pc2 Send 0 Ok
+490 pc2 Send 1 Ok
+500 pc2 Send 0 Ok
+510 pc2 Send 0 Ok
+520 pc2 Send 0 Ok
+530 pc2 Send 0 Ok
+540 pc2 Send 0 Ok
+550 pc2 Send 1 Ok
+560 pc2 Send 0 Ok
+570 pc2 Send 1 Ok
+580 pc2 Send 0 Ok
+590 pc2 Send 1 Ok
+600 pc2 Send 0 Ok
+610 pc2 Send 0 Ok
+620 pc2 Send 1 Ok
+630 pc2 Send 0 Ok
+640 pc2 Send 0 Ok
+650 pc2 Send 1 Ok
+660 pc2 Send 0 Ok
+670 pc2 Send 1 Ok
+680 pc2 Send 0 Ok
+690 pc2 Send 0 Ok
+700 pc2 Send 0 Ok
+710 pc2 Send 0 Ok
+720 pc2 Send 0 Ok
+730 pc2 Send 1 Ok
+740 pc2 Send 0 Ok
+750 pc2 Send 1 Ok
+760 pc2 Send 0 Ok
+770 pc2 Send 0 Ok
+780 pc2 Send 0 Ok
+790 pc2 Send 1 Ok
+800 pc2 Send 0 Ok
+810 pc2 Send 1 Ok
+820 pc2 Send 1 Ok
+830 pc2 Send 0 Ok
+840 pc2 Send 1 Ok
+850 pc2 Send 1 Ok
+860 pc2 Send 1 Ok
+870 pc2 Send 1 Ok
+880 pc2 Send 0 Ok
+890 pc2 Send 1 Ok
+900 pc2 Send 1 Ok
+910 pc2 Send 0 Ok
+920 pc2 Send 1 Ok
+930 pc2 Send 1 Ok
+940 pc2 Send 1 Ok
+950 pc2 Send 1 Ok
+960 pc2 Send 0 Ok
+970 pc2 Send 1 Ok
+980 pc2 Send 1 Ok
+990 pc2 Send 0 Ok
+1000 pc2 Send 1 Ok
+1010 pc2 Send 1 Ok
+1020 pc2 Send 1 Ok
+1030 pc2 Send 1 Ok
+1040 pc2 Send 0 Ok
+1050 pc2 Send 1 Ok
+1060 pc2 Send 1 Ok
+1070 pc2 Send 1 Ok
+1080 pc2 Send 0 Ok
+1090 pc2 Send 0 Ok
+1100 pc2 Send 0 Ok
+1110 pc2 Send 0 Ok
+1120 pc2 Send 0 Ok
+1130 pc2 Send 1 Ok
+1140 pc2 Send 0 Ok
+1150 pc2 Send 0 Ok
+1160 pc2 Send 0 Ok
+1170 pc2 Send 0 Ok
+1180 pc2 Send 1 Ok
+1190 pc2 Send 1 Ok
+1200 pc2 Send 1 Ok
+1210 pc2 Send 0 Ok
+1220 pc2 Send 1 Ok
+1230 pc2 Send 1 Ok
+1240 pc2 Send 1 Ok
+1250 pc2 Send 1 Ok
+1260 pc2 Send 1 Ok
+1270 pc2 Send 1 Ok
+3862 pc2 Receive 1
+3872 pc2 Receive 0
+3882 pc2 Receive 1
+3892 pc2 Receive 0
+3902 pc2 Receive 1
+3912 pc2 Receive 0
+3922 pc2 Receive 1
+3932 pc2 Receive 0
+3942 pc2 Receive 1
+3952 pc2 Receive 0
+3962 pc2 Receive 1
+3972 pc2 Receive 1
+3982 pc2 Receive 0
+3992 pc2 Receive 0
+4002 pc2 Receive 1
+4012 pc2 Receive 0
+4022 pc2 Receive 1
+4032 pc2 Receive 0
+4042 pc2 Receive 1
+4052 pc2 Receive 0
+4062 pc2 Receive 1
+4072 pc2 Receive 0
+4082 pc2 Receive 1
+4092 pc2 Receive 0
+4102 pc2 Receive 1
+4112 pc2 Receive 0
+4122 pc2 Receive 1
+4132 pc2 Receive 0
+4142 pc2 Receive 0
+4152 pc2 Receive 0
+4162 pc2 Receive 1
+4172 pc2 Receive 0
+4182 pc2 Receive 0
+4192 pc2 Receive 1
+4202 pc2 Receive 0
+4212 pc2 Receive 0
+4222 pc2 Receive 0
+4232 pc2 Receive 0
+4242 pc2 Receive 0
+4252 pc2 Receive 0
+4262 pc2 Receive 0
+4272 pc2 Receive 0
+4282 pc2 Receive 0
+4292 pc2 Receive 1
+4302 pc2 Receive 0
+4312 pc2 Receive 0
+4322 pc2 Receive 0
+4332 pc2 Receive 0
+4342 pc2 Receive 0
+4352 pc2 Receive 1
+4362 pc2 Receive 0
+4372 pc2 Receive 0
+4382 pc2 Receive 0
+4392 pc2 Receive 0
+4402 pc2 Receive 0
+4412 pc2 Receive 1
+4422 pc2 Receive 0
+4432 pc2 Receive 1
+4442 pc2 Receive 0
+4452 pc2 Receive 1
+4462 pc2 Receive 0
+4472 pc2 Receive 0
+4482 pc2 Receive 1
+4492 pc2 Receive 0
+4502 pc2 Receive 0
+4512 pc2 Receive 1
+4522 pc2 Receive 0
+4532 pc2 Receive 1
+4542 pc2 Receive 0
+4552 pc2 Receive 0
+4562 pc2 Receive 0
+4572 pc2 Receive 0
+4582 pc2 Receive 0
+4592 pc2 Receive 1
+4602 pc2 Receive 0
+4612 pc2 Receive 1
+4622 pc2 Receive 0
+4632 pc2 Receive 0
+4642 pc2 Receive 1
+4652 pc2 Receive 0
+4662 pc2 Receive 0
+4672 pc2 Receive 1
+4682 pc2 Receive 1
+4692 pc2 Receive 0
+4702 pc2 Receive 1
+4712 pc2 Receive 1
+4722 pc2 Receive 1
+4732 pc2 Receive 1
+4742 pc2 Receive 0
+4752 pc2 Receive 1
+4762 pc2 Receive 1
+4772 pc2 Receive 0
+4782 pc2 Receive 1
+4792 pc2 Receive 1
+4802 pc2 Receive 1
+4812 pc2 Receive 1
+4822 pc2 Receive 0
+4832 pc2 Receive 1
+4842 pc2 Receive 1
+4852 pc2 Receive 0
+4862 pc2 Receive 1
+4872 pc2 Receive 1
+4882 pc2 Receive 1
+4892 pc2 Receive 1
+4902 pc2 Receive 0
+4912 pc2 Receive 1
+4922 pc2 Receive 1
+4932 pc2 Receive 1
+4942 pc2 Receive 0
+4952 pc2 Receive 0
+4962 pc2 Receive 0
+4972 pc2 Receive 0
+4982 pc2 Receive 0
+4992 pc2 Receive 1
+5002 pc2 Receive 0
+5012 pc2 Receive 0
+5022 pc2 Receive 0
+5032 pc2 Receive 0
+5042 pc2 Receive 1
+5052 pc2 Receive 1
+5062 pc2 Receive 0
+5072 pc2 Receive 1
+5082 pc2 Receive 1
+5092 pc2 Receive 1
+5102 pc2 Receive 1
+5112 pc2 Receive 1
+5122 pc2 Receive 1
+5132 pc2 Receive 1
+5147 pc2 Send 1 Ok
+5157 pc2 Send 0 Ok
+5167 pc2 Send 1 Ok
+5177 pc2 Send 0 Ok
+5187 pc2 Send 1 Ok
+5197 pc2 Send 0 Ok
+5207 pc2 Send 1 Ok
+5217 pc2 Send 0 Ok
+5227 pc2 Send 1 Ok
+5237 pc2 Send 0 Ok
+5247 pc2 Send 1 Ok
+5257 pc2 Send 0 Ok
+5267 pc2 Send 0 Ok
+5277 pc2 Send 0 Ok
+5287 pc2 Send 1 Ok
+5297 pc2 Send 0 Ok
+5307 pc2 Send 1 Ok
+5317 pc2 Send 0 Ok
+5327 pc2 Send 1 Ok
+5337 pc2 Send 0 Ok
+5347 pc2 Send 1 Ok
+5357 pc2 Send 0 Ok
+5367 pc2 Send 1 Ok
+5377 pc2 Send 0 Ok
+5387 pc2 Send 1 Ok
+5397 pc2 Send 0 Ok
+5407 pc2 Send 1 Ok
+5417 pc2 Send 1 Ok
+5427 pc2 Send 0 Ok
+5437 pc2 Send 0 Ok
+5447 pc2 Send 1 Ok
+5457 pc2 Send 0 Ok
+5467 pc2 Send 0 Ok
+5477 pc2 Send 1 Ok
+5487 pc2 Send 1 Ok
+5497 pc2 Send 0 Ok
+5507 pc2 Send 0 Ok
+5517 pc2 Send 0 Ok
+5527 pc2 Send 0 Ok
+5537 pc2 Send 0 Ok
+5547 pc2 Send 0 Ok
+5557 pc2 Send 0 Ok
+5567 pc2 Send 0 Ok
+5577 pc2 Send 1 Ok
+5587 pc2 Send 0 Ok
+5597 pc2 Send 0 Ok
+5607 pc2 Send 0 Ok
+5617 pc2 Send 0 Ok
+5627 pc2 Send 0 Ok
+5637 pc2 Send 1 Ok
+5647 pc2 Send 1 Ok
+5657 pc2 Send 0 Ok
+5667 pc2 Send 1 Ok
+5677 pc2 Send 1 Ok
+5687 pc2 Send 1 Ok
+5697 pc2 Send 1 Ok
+5707 pc2 Send 0 Ok
+5717 pc2 Send 1 Ok
+5727 pc2 Send 1 Ok
+5737 pc2 Send 0 Ok
+5747 pc2 Send 1 Ok
+5757 pc2 Send 1 Ok
+5767 pc2 Send 1 Ok
+5777 pc2 Send 1 Ok
+5787 pc2 Send 0 Ok
+5797 pc2 Send 1 Ok
+5807 pc2 Send 1 Ok
+5817 pc2 Send 0 Ok
+5827 pc2 Send 1 Ok
+5837 pc2 Send 1 Ok
+5847 pc2 Send 1 Ok
+5857 pc2 Send 1 Ok
+5867 pc2 Send 0 Ok
+5877 pc2 Send 1 Ok
+5887 pc2 Send 1 Ok
+5897 pc2 Send 0 Ok
+5907 pc2 Send 1 Ok
+5917 pc2 Send 1 Ok
+5927 pc2 Send 1 Ok
+5937 pc2 Send 1 Ok
+5947 pc2 Send 1 Ok
+5957 pc2 Send 1 Ok
+5967 pc2 Send 0 Ok
+5977 pc2 Send 1 Ok
+5987 pc2 Send 1 Ok
+5997 pc2 Send 1 Ok
+6007 pc2 Send 1 Ok
+6017 pc2 Send 0 Ok
+6027 pc2 Send 1 Ok
+6037 pc2 Send 1 Ok
+6047 pc2 Send 0 Ok
+6057 pc2 Send 1 Ok
+6067 pc2 Send 1 Ok
+6077 pc2 Send 1 Ok
+6087 pc2 Send 1 Ok
+6097 pc2 Send 0 Ok
+6107 pc2 Send 1 Ok
+6117 pc2 Send 1 Ok
+6127 pc2 Send 0 Ok
+6137 pc2 Send 1 Ok
+6147 pc2 Send 1 Ok
+6157 pc2 Send 1 Ok
+6167 pc2 Send 1 Ok
+6177 pc2 Send 0 Ok
+6187 pc2 Send 1 Ok
+6197 pc2 Send 1 Ok
+6207 pc2 Send 0 Ok
+6217 pc2 Send 1 Ok
+6227 pc2 Send 1 Ok
+6237 pc2 Send 1 Ok
+6247 pc2 Send 1 Ok
+6257 pc2 Send 0 Ok
+6267 pc2 Send 0 Ok
+6277 pc2 Send 0 Ok
+6287 pc2 Send 0 Ok
+6297 pc2 Send 0 Ok
+6307 pc2 Send 0 Ok
+6317 pc2 Send 0 Ok
+6327 pc2 Send 0 Ok
+6337 pc2 Send 0 Ok
+6347 pc2 Send 0 Ok
+6357 pc2 Send 0 Ok
+6367 pc2 Send 0 Ok
+6377 pc2 Send 0 Ok
+6387 pc2 Send 0 Ok
+6397 pc2 Send 0 Ok
+6407 pc2 Send 0 Ok
+6417 pc2 Send 0 Ok
+6427 pc2 Send 0 Ok
+6437 pc2 Send 0 Ok
+6447 pc2 Send 0 Ok
+6457 pc2 Send 0 Ok
+6467 pc2 Send 1 Ok
+6477 pc2 Send 0 Ok
+6487 pc2 Send 0 Ok
+6497 pc2 Send 0 Ok
+6507 pc2 Send 1 Ok
+6517 pc2 Send 0 Ok
+6527 pc2 Send 1 Ok
+6537 pc2 Send 0 Ok
+6547 pc2 Send 1 Ok
+6557 pc2 Send 0 Ok
+6567 pc2 Send 1 Ok
+6577 pc2 Send 1 Ok
+6587 pc2 Send 0 Ok
+6597 pc2 Send 1 Ok
+6607 pc2 Send 0 Ok
+6617 pc2 Send 0 Ok
+6627 pc2 Send 0 Ok
+6637 pc2 Send 0 Ok
+6647 pc2 Send 1 Ok
+6657 pc2 Send 1 Ok
+6667 pc2 Send 0 Ok
+6677 pc2 Send 0 Ok
+6687 pc2 Send 0 Ok
+6697 pc2 Send 1 Ok
+6707 pc2 Send 1 Ok
+6717 pc2 Send 1 Ok
+6727 pc2 Send 1 Ok
+6737 pc2 Send 1 Ok

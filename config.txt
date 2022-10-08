@@ -1,0 +1,3 @@
+signaltime=10
+path=./output
+Erralg=CheckSum
